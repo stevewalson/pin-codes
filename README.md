@@ -1,2 +1,5 @@
 # pin-codes
-A list of different pin codes combinations and the python code used to make them
+The repository contains:
+
+List of different pin codes combinations
+Python code used to make them
